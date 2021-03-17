@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alura Viagens</string>
+    <string name="especiais">Especiais</string>
+    <string name="pais">Brasil</string>
+    <string name="s_o_paulo">São Paulo</string>
+    <string name="_2_dias">2 Dias</string>
+    <string name="r_243_89">R$ 243,89</string>
+    <string name="banner_inicial_dos_pacotes">Banner inicial dos pacotes</string>
+</resources>
