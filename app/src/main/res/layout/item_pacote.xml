@@ -23,7 +23,7 @@
             android:layout_height="match_parent">
 
             <ImageView
-                android:id="@+id/iv_city"
+                android:id="@+id/resumo_pacote_imagem"
                 android:layout_width="0dp"
                 android:layout_height="120dp"
                 android:scaleType="centerCrop"
@@ -53,7 +53,7 @@
                 android:background="@android:color/holo_orange_dark"
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/iv_city" />
+                app:layout_constraintTop_toBottomOf="@+id/resumo_pacote_imagem" />
 
             <TextView
                 android:id="@+id/tv_dias"
